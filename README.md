@@ -32,6 +32,7 @@ Joining and leaving the work group as a stakeholder is a straightforward process
 
 The initial stakeholders consists of:
 
+* Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
