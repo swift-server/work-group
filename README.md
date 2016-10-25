@@ -20,11 +20,10 @@ Analagous to the primary Core Team for Swift, the work group has a steering team
 
 The initial steering team consists of:
 
-* Chris Bailey (@seabaylea, Kitura) 
+* Chris Bailey (@seabaylea, IBM Kitura)
+* Logan Wright (@LoganWright, Vapor)
+* Paulo Faria  (@paulofaria, Zewo)
 * Steve Algernon (@salgernon, Apple)
-* Paulo Faria  (@paulofaria, Zewo) 
-* Logan Wright (@LoganWright, Vapor) 
-
 
 ### <a name="stakeholders"></a>Stakeholders
 The work group also has stakeholders who represent server-side frameworks or applications. They are responsible for providing early input on use cases and API design as part of the iterative design and implementation process, and to adopt the new APIs into their frameworks.
@@ -33,10 +32,11 @@ Joining and leaving the work group as a stakeholder is a straightforward process
 
 The initial stakeholders consists of:
 
-* Robert Dickerson (@rfdickerson, Kitura)
-* Gregor Milos (Apple)
+* Gregor Milos (@gmilos, Apple)
+* Kyle Jessup (@kjessup, Perfect)
+* Robert Dickerson (@rfdickerson, IBM Kitura)
 * Tanner Nelson (@tannernelson, Vapor)
-* Kyle Jessup (@kjessup, Perfect) 
+* Tom Doron (@tomerd, Apple)
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/related-projects/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
