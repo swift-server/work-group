@@ -39,6 +39,7 @@ The initial stakeholders consists of:
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
+* Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
