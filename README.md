@@ -36,6 +36,7 @@ The initial stakeholders consists of:
 * Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
+* Danielle Tomlinson ([@dantoml](https://github.com/dantoml), Jay & Other OSS)
 * David Ask ([@formbound](https://github.com/formbound), Zewo)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
