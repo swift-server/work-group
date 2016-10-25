@@ -32,15 +32,15 @@ Joining and leaving the work group as a stakeholder is a straightforward process
 
 The initial stakeholders consists of:
 
+* Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
+* Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
+* David Ask ([@formbound](https://github.com/formbound), Zewo)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
+* Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
-* Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
-* Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
-* Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
-* David Ask ([@formbound](https://github.com/formbound), Zewo)
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
