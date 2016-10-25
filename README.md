@@ -1,6 +1,6 @@
 ## Server APIs Work Group
 
-The Server APIs Work Group is responsible for steering the [Swift Server APIs](http://swift.org/related-projects/server-apis/) project, which is an evolving set of Swift libraries developed as part of the Swift open source project to provide fundamental capabilities for building server-oriented software.
+The Server APIs Work Group is responsible for steering the [Swift Server APIs](http://swift.org/server-apis/) project, which is an evolving set of Swift libraries developed as part of the Swift open source project to provide fundamental capabilities for building server-oriented software.
 
 The work group consisting of a core team, stakeholders from the server-side Swift community, and anyone who wants to get involved. The work group consists of three roles: core team member, stakeholder and contributor. Participants may have more than one role in the work group.
 
@@ -39,5 +39,5 @@ The initial stakeholders consists of:
 * Tom Doron (@tomerd, Apple)
 
 ### Additional Information
-More information can be found in the [Server APIs pages](http://swift.org/related-projects/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
+More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
 
