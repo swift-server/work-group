@@ -37,6 +37,7 @@ The initial stakeholders consists of:
 * Robert Dickerson (@rfdickerson, IBM Kitura)
 * Tanner Nelson (@tannernelson, Vapor)
 * Tom Doron (@tomerd, Apple)
+* Daniel Dunbar (@ddunbar, Apple)
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
