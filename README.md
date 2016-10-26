@@ -43,6 +43,7 @@ The initial stakeholders consists of:
 * Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
+* Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
 
 ### Additional Information
