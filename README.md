@@ -7,7 +7,7 @@ The work group consisting of a core team, stakeholders from the server-side Swif
 Everyone is welcome to contribute to the Server APIs Work Group through participating in a range of activities including joining as a stakeholder, participating in design discussions, asking or answering questions on the mailing lists, reporting or triaging bugs or by submitting pull requests to the project(s) for implementation or tests.
 
 ### <a name="focus-areas"></a>Current Focus Areas
-The work group is initially focussing on the creation of API proposals are for base networking, security/encryption and HTTP parsing:
+The work group is initially focussing on the creation of API proposals for base networking, security/encryption and HTTP parsing:
 
 * **Base Networking**: Provide a portable interface for low level socket based network based I/O, including TCP/IP and UDP protocols, IPv4 and IPv6 support and domain name resolution. Support should be provided to create and use both synchronous and asynchronous non-blocking connections.
 
