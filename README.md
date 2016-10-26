@@ -33,6 +33,7 @@ Joining and leaving the work group as a stakeholder is a straightforward process
 The initial stakeholders consists of:
 
 * Alex Blewitt ([@alblue](https://github.com/alblue), Apple)
+* Cătălin Stan ([@thecatalinstan](https://github.com/thecatalinstan), Criollo)
 * Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
@@ -47,7 +48,6 @@ The initial stakeholders consists of:
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
-* Cătălin Stan ([@thecatalinstan](https://github.com/thecatalinstan), Criollo)
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
