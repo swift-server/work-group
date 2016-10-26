@@ -30,7 +30,7 @@ The work group also has stakeholders who represent server-side frameworks or app
 
 Joining and leaving the work group as a stakeholder is a straightforward process. The only requirement is to raise a Pull Request to add or remove your name from the stakeholder list in this project, which will act to add or remove you from invites to formal work group discussions.
 
-The initial stakeholders consists of:
+The initial stakeholders consists of (alphabetically):
 
 * Alex Blewitt ([@alblue](https://github.com/alblue), Apple)
 * Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
