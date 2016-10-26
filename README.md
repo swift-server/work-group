@@ -34,6 +34,7 @@ The initial stakeholders consists of:
 
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
+* David Ask ([@formbound](https://github.com/formbound), Zewo)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
