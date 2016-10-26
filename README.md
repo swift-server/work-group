@@ -40,6 +40,7 @@ The initial stakeholders consists of:
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
+* Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
 * Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
