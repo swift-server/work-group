@@ -32,12 +32,16 @@ Joining and leaving the work group as a stakeholder is a straightforward process
 
 The initial stakeholders consists of:
 
+* Alex Blewitt ([@alblue](https://github.com/alblue), Apple)
+* Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
+* David Ask ([@formbound](https://github.com/formbound), Zewo)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
-* Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), projectSX0)
+* Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
+* Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
