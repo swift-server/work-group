@@ -41,6 +41,7 @@ The initial stakeholders consists of:
 * David Ask ([@formbound](https://github.com/formbound), Zewo)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
+* Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
 * Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
