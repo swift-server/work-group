@@ -49,6 +49,7 @@ The initial stakeholders consists of:
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
+* Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
