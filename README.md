@@ -33,6 +33,7 @@ Joining and leaving the work group as a stakeholder is a straightforward process
 The initial stakeholders consists of:
 
 * Alex Blewitt ([@alblue](https://github.com/alblue), Apple)
+* Cătălin Stan ([@thecatalinstan](https://github.com/thecatalinstan), Criollo)
 * Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
