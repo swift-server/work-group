@@ -32,6 +32,7 @@ Joining and leaving the work group as a stakeholder is a straightforward process
 
 The initial stakeholders consists of:
 
+* Ah Shone ([@tasktinle](https://github.com/tasktinkle), Baidu)
 * Alex Blewitt ([@alblue](https://github.com/alblue), Apple)
 * Cătălin Stan ([@thecatalinstan](https://github.com/thecatalinstan), Criollo)
 * Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
