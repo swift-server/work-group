@@ -43,6 +43,7 @@ The initial stakeholders consists of:
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
+* Sheng Li ([@tasktinkle](https://github.com/tasktinkle), Baidu)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
 * Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
 * Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
