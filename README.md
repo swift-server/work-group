@@ -42,18 +42,23 @@ The initial stakeholders consists of:
 * David Ask ([@formbound](https://github.com/formbound), Zewo)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
+* Johannes Weiß ([@weissi](https://github.com/weissi), Apple)
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
+* Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
+* Nic Jackson ([@nicholasjackson](https://github.com/nicholasjackson), notonthehighstreet.com)
 * Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
 * Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
+* Robert Payne ([@robertjpayne](https://github.com/robertjpayne), Zewo)
 * Sam Liu ([@ontouchstart](https://github.com/ontouchstart))
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
 * Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
 * Tyler Stromberg ([@AquaGeek](https://github.com/AquaGeek))
+* Yuki Takei ([@noppoMan](https://github.com/noppoMan), Slimane)
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
