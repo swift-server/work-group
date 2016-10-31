@@ -46,6 +46,7 @@ The initial stakeholders consists of:
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
 * Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
+* marc hoffman ([@dwarfland](https://github.com/dwarflandf), RemObjects Software, Elements Compiler)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
 * Nic Jackson ([@nicholasjackson](https://github.com/nicholasjackson), notonthehighstreet.com)
 * Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
