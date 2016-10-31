@@ -49,6 +49,7 @@ The initial stakeholders consists of:
 * Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
 * Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
+* Robert Payne ([@robertjpayne](https://github.com/robertjpayne), Zewo)
 * Sam Liu ([@ontouchstart](https://github.com/ontouchstart))
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
