@@ -43,6 +43,7 @@ The initial stakeholders consists of (alphabetically):
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Johannes Weiß ([@weissi](https://github.com/weissi), Apple)
+* John Lin ([@johnlinvc](https://github.com/johnlinvc))
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
 * Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
