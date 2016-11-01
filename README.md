@@ -45,6 +45,7 @@ The initial stakeholders consists of (alphabetically):
 * Johannes Weiß ([@weissi](https://github.com/weissi), Apple)
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
+* Max Desiatov ([@explicitcall](https://github.com/explicitcall), Astrocat)
 * Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
 * Nic Jackson ([@nicholasjackson](https://github.com/nicholasjackson), notonthehighstreet.com)
@@ -62,4 +63,3 @@ The initial stakeholders consists of (alphabetically):
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
-
