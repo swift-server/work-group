@@ -34,6 +34,7 @@ The initial stakeholders consists of (alphabetically):
 
 * Ah Shone ([@tasktinle](https://github.com/tasktinkle), Baidu)
 * Alex Blewitt ([@alblue](https://github.com/alblue), Apple)
+* Ben Cohen ([@airspeedswift](http://github.com/airspeedswift), Apple)
 * Cătălin Stan ([@thecatalinstan](https://github.com/thecatalinstan), Criollo)
 * Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
