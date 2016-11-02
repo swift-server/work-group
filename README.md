@@ -61,6 +61,7 @@ The initial stakeholders consists of (alphabetically):
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
+* Tripta Gupta ([@neurosaurus](https://github.com/neurosaurus), Capital One)
 * Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
 * Tyler Stromberg ([@AquaGeek](https://github.com/AquaGeek))
 * Yuki Takei ([@noppoMan](https://github.com/noppoMan), Slimane)
