@@ -58,6 +58,7 @@ The initial stakeholders consists of (alphabetically):
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
 * Robert Payne ([@robertjpayne](https://github.com/robertjpayne), Zewo)
 * Sam Liu ([@ontouchstart](https://github.com/ontouchstart))
+* Sasha Milic ([@SashaMilic](https://github.com/sashamilic), OpenRatio)
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
