@@ -44,6 +44,7 @@ The initial stakeholders consists of (alphabetically):
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
+* Joannis Orlandos ([@joannis](https://github.com/joannis), OpenKitten)
 * Johannes Weiß ([@weissi](https://github.com/weissi), Apple)
 * John Lin ([@johnlinvc](https://github.com/johnlinvc))
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
