@@ -44,6 +44,7 @@ The initial stakeholders consists of (alphabetically):
 * Danielle Tomlinson ([@dantoml](https://github.com/dantoml), Jay & Other OSS)
 * David Ask ([@formbound](https://github.com/formbound), Zewo)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
+* Gwynne Raskind ([@gwynne](https://github.com/gwynne))
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Joannis Orlandos ([@joannis](https://github.com/joannis), OpenKitten)
