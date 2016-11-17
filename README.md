@@ -62,6 +62,7 @@ The initial stakeholders consists of (alphabetically):
 * Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
 * Robert Dickerson ([@rfdickerson](https://github.com/rfdickerson), IBM Kitura)
 * Robert Payne ([@robertjpayne](https://github.com/robertjpayne), Zewo)
+* Sahand Nayebaziz ([@sahandnayebaziz](https://github.com/sahandnayebaziz), Hypertext)
 * Sam Liu ([@ontouchstart](https://github.com/ontouchstart))
 * Sasha Milic ([@SashaMilic](https://github.com/sashamilic), OpenRatio)
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
