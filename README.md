@@ -43,6 +43,7 @@ The initial stakeholders consists of (alphabetically):
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
 * Danielle Tomlinson ([@dantoml](https://github.com/dantoml), Jay & Other OSS)
 * David Ask ([@davidask](https://github.com/davidask), Zewo)
+* David Sperling ([@dsperling](https://github.com/dsperling), Smith Micro)
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Gwynne Raskind ([@gwynne](https://github.com/gwynne))
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
