@@ -66,6 +66,7 @@ The initial stakeholders consists of (alphabetically):
 * Sasha Milic ([@SashaMilic](https://github.com/sashamilic), OpenRatio)
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
+* Thomas Paul Mann ([@thomaspaulmann](https://github.com/thomaspaulmann), Swish)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
 * Tripta Gupta ([@neurosaurus](https://github.com/neurosaurus), Capital One)
 * Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
