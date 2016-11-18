@@ -43,6 +43,7 @@ The initial stakeholders consists of (alphabetically):
 * Daniel Dunbar ([@ddunbar](https://github.com/ddunbar), Apple)
 * Danielle Tomlinson ([@dantoml](https://github.com/dantoml), Jay & Other OSS)
 * David Ask ([@formbound](https://github.com/formbound), Zewo)
+* Eleftherios Laskaridis ([@laskaridis](https://github.com/laskaridis))
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Gwynne Raskind ([@gwynne](https://github.com/gwynne))
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
@@ -71,7 +72,6 @@ The initial stakeholders consists of (alphabetically):
 * Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
 * Tyler Stromberg ([@AquaGeek](https://github.com/AquaGeek))
 * Yuki Takei ([@noppoMan](https://github.com/noppoMan), Slimane)
-* Eleftherios Laskaridis ([@laskaridis](https://github.com/laskaridis))
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
