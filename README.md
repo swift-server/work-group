@@ -59,6 +59,7 @@ The initial stakeholders consists of (alphabetically):
 * Marc Hoffman ([@dwarfland](https://github.com/dwarfland), RemObjects Software, Elements Compiler)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
 * Nic Jackson ([@nicholasjackson](https://github.com/nicholasjackson), notonthehighstreet.com)
+* Phil J. Łaszkowicz ([@siilime](https://github.com/siilime), Omnijar Studio)
 * Piers Mainwaring ([@piersadrian](https://github.com/piersadrian))
 * Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
 * Rick Mann ([@jetforme](https://github.com/jetforme), Latency: Zero, LLC)
