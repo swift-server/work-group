@@ -76,6 +76,7 @@ The initial stakeholders consists of (alphabetically):
 * Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
 * Tyler Stromberg ([@AquaGeek](https://github.com/AquaGeek))
 * Yuki Takei ([@noppoMan](https://github.com/noppoMan), Slimane)
+* Wassim Seifeddine  ([@wassimseif](https://github.com/wassimseif))
 
 ### Additional Information
 More information can be found in the [Server APIs pages](http://swift.org/server-apis/) of [swift.org](http://swift.org), or by posting to the [swift-server-dev](https://lists.swift.org/mailman/listinfo/swift-server-dev) mailing list.
