@@ -52,6 +52,7 @@ The initial stakeholders consists of (alphabetically):
 * Joannis Orlandos ([@joannis](https://github.com/joannis), OpenKitten)
 * Johannes Weiß ([@weissi](https://github.com/weissi), Apple)
 * John Lin ([@johnlinvc](https://github.com/johnlinvc))
+* Kelvin Çobanaj ([@kelvincobanaj](https://github.com/kelvincobanaj))
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
 * Max Desiatov ([@explicitcall](https://github.com/explicitcall), Astrocat)
