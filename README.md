@@ -34,7 +34,6 @@ The initial stakeholders consists of (alphabetically):
 
 * Ah Shone ([@tasktinkle](https://github.com/tasktinkle), Baidu)
 * Alex Blewitt ([@alblue](https://github.com/alblue), Apple)
-* Patrick Bohrer ([@pbohrer](https://github.com/pbohrer), IBM)
 * Alfredo Delli Bovi ([@adellibovi](https://github.com/adellibovi))
 * Bas Broek ([@basthomas](https://github.com/basthomas))
 * Ben Cohen ([@airspeedswift](http://github.com/airspeedswift), Apple)
@@ -61,6 +60,7 @@ The initial stakeholders consists of (alphabetically):
 * Marc Hoffman ([@dwarfland](https://github.com/dwarfland), RemObjects Software, Elements Compiler)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
 * Nic Jackson ([@nicholasjackson](https://github.com/nicholasjackson), notonthehighstreet.com)
+* Patrick Bohrer ([@pbohrer](https://github.com/pbohrer), IBM)
 * Phil J. Łaszkowicz ([@siilime](https://github.com/siilime), Omnijar Studio)
 * Piers Mainwaring ([@piersadrian](https://github.com/piersadrian))
 * Ricardo Borelli ([@rabc](https://github.com/rabc), Zewo)
