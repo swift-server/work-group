@@ -58,6 +58,7 @@ The initial stakeholders consists of (alphabetically):
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
 * Max Desiatov ([@explicitcall](https://github.com/explicitcall), Astrocat)
 * Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
+* Luke Hiesterman ([@gravisman](https://github.com/gravisman), Apple)
 * Marc Hoffman ([@dwarfland](https://github.com/dwarfland), RemObjects Software, Elements Compiler)
 * Michael Chiu ([@michael-yuji](https://github.com/michael-yuji), SX0)
 * Nic Jackson ([@nicholasjackson](https://github.com/nicholasjackson), notonthehighstreet.com)
