@@ -83,6 +83,7 @@ The initial stakeholders consists of (alphabetically):
 * Tyler Stromberg ([@AquaGeek](https://github.com/AquaGeek))
 * Wassim Seifeddine  ([@wassimseif](https://github.com/wassimseif))
 * Yuki Takei ([@noppoMan](https://github.com/noppoMan), Slimane)
+* Jason Toffaletti ([@toffaletti](https://github.com/toffaletti), Apple)
 
 
 ### Additional Information
