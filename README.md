@@ -51,6 +51,7 @@ The initial stakeholders consists of (alphabetically):
 * Gwynne Raskind ([@gwynne](https://github.com/gwynne))
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
+* Jason Toffaletti ([@toffaletti](https://github.com/toffaletti), Apple)
 * Joannis Orlandos ([@joannis](https://github.com/joannis), OpenKitten)
 * Johannes Weiß ([@weissi](https://github.com/weissi), Apple)
 * John Lin ([@johnlinvc](https://github.com/johnlinvc))
