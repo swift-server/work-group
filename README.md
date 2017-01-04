@@ -75,6 +75,7 @@ The initial stakeholders consists of (alphabetically):
 * Sahand Nayebaziz ([@sahandnayebaziz](https://github.com/sahandnayebaziz), Hypertext)
 * Sam Liu ([@ontouchstart](https://github.com/ontouchstart))
 * Sasha Milic ([@SashaMilic](https://github.com/sashamilic), OpenRatio)
+* Stevey Brown ([@Steveybrown](https://github.com/steveybrown))
 * Tanner Nelson ([@tannernelson](https://github.com/tannernelson), Vapor)
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Thomas Catterall ([@swizzlr](https://github.com/swizzlr))
