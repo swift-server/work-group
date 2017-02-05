@@ -48,6 +48,7 @@ The initial stakeholders consists of (alphabetically):
 * Eleftherios Laskaridis ([@laskaridis](https://github.com/laskaridis), eTravel)
 * Etan Kissling ([@Etan1](https://github.com/Etan1))
 * Gelareh Taban ([@gtaban](https://github.com/gtaban), IBM)
+* Gianluca Tranchedone ([@gtranchedone](https://github.com/gtranchedone))
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Gwynne Raskind ([@gwynne](https://github.com/gwynne))
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
