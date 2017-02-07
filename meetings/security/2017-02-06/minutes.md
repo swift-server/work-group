@@ -53,7 +53,7 @@ New requirement: API to be Swifty
 
 Missing functionality in underlying library
 - What do we do where platforms don’t have equivalent crypto capabilities on all platforms? We shouldn’t provide just the lowest common denominator, we should make it possible to report capabilities. If Darwin platforms are lacking, we should work with Apple to add new cyphers if needed.
-- ALPN APIs missing from Secure Transport APIs for TLS 1.2
+- ALPN APIs missing from Secure Transport APIs for TLS 1.3
 
 Isolation from I/O protocol:
 - Streams vs. sockets as input for SSL - being able to abstract the socket away so we’re just giving a stream of bytes would be ideal.
