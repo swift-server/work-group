@@ -61,6 +61,7 @@ The initial stakeholders consists of (alphabetically):
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
 * Max Desiatov ([@explicitcall](https://github.com/explicitcall), Astrocat)
+* Maxim Veksler ([@maximveksler](http://github.com/maximveksler), Sugar So What)
 * Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
 * Luke Hiesterman ([@gravisman](https://github.com/gravisman), Apple)
 * Marc Hoffman ([@dwarfland](https://github.com/dwarfland), RemObjects Software, Elements Compiler)
