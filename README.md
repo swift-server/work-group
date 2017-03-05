@@ -60,6 +60,7 @@ The initial stakeholders consists of (alphabetically):
 * Kelvin Çobanaj ([@kelvincobanaj](https://github.com/kelvincobanaj))
 * Kuan Huang ([@widehuang](https://github.com/Widehuang), Baidu)
 * Kyle Jessup ([@kjessup](https://github.com/kjessup), Perfect)
+* Laurent Gaches([@lgaches](https://github.com/lgaches))
 * Max Desiatov ([@explicitcall](https://github.com/explicitcall), Astrocat)
 * Maxim Veksler ([@maximveksler](http://github.com/maximveksler), Sugar So What)
 * Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
