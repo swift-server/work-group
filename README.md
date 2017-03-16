@@ -38,6 +38,7 @@ The initial stakeholders consists of (alphabetically):
 * Bas Broek ([@basthomas](https://github.com/basthomas))
 * Ben Cohen ([@airspeedswift](http://github.com/airspeedswift), Apple)
 * Billy Tobon ([@billyto](http://github.com/billyto), Rent the Runway)
+* Carl Brown ([@carlbrown](http://github.com/carlbrown), IBM)
 * Cătălin Stan ([@thecatalinstan](https://github.com/thecatalinstan), Criollo)
 * Damian Kolakowski ([@glock45](https://github.com/glock45), Swifter & swiftx)
 * Dan Appel ([@danappelxx](https://github.com/danappelxx), Zewo)
