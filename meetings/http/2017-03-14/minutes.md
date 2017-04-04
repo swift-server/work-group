@@ -32,7 +32,7 @@
 
 _Use of value types vs. reference types for request and response_ 
 * General consensus is in favour of using a value types for request and response.
-  * The argument that the should be references as they are passed around and mutated really don’t hold
+  * The argument that these should be references as they are passed around and mutated really doesn’t hold
   * It should be noted that the reason why there is still NSURLRequest/Response (reference types) was because a subclass exists, rather than the intend that they should be reference types.
   * The use of value types will help with reference cycles in closures (like middlewares) which you otherwise need to use weak self for.
   * Should also help with reducing some of the ARC overhead
@@ -50,7 +50,7 @@ _Use of value types vs. reference types for request and response_
   * These aren’t well specified, and probably need to be handled by whatever is processing the stream anyway.
 
 _Use of Foundation based types for request and response_ 
-* It’s accepted that the Foundation types don’t match the requirements for general request and response types today as their designed for a specific set of use cases.
+* It’s accepted that the Foundation types don’t match the requirements for general request and response types today as they're designed for a specific set of use cases.
 * We should figure out what the “right answer” should be for Swift (without regard to Objective-C compatibility), and then see how that fits into the existing types
   * There’s definitely scope to extend or modify the existing types
   * But we’d need a migration plan so that existing users aren’t broken
