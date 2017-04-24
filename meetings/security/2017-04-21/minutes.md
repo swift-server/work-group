@@ -29,8 +29,9 @@ If you have items you want to make sure are on the agenda, please add them below
 - ACTION: Chris Bailey to set up Teams: admin, committer (DONE)
 - Testing options:
   - Separate test project with TLS + socket 
-  - Or bare bone socket library within Test of the TLS library → Michael’s library?
+  - Or bare bone socket library within Test of the TLS library
   - → We will go ahead with the minimal socket library within TLS project whilst the server group’s socket library has not yet been implemented.
+  - Michael Chiu is providing his socket library https://github.com/michael-yuji/CKit
 - Goal is to use Swift CI. TBD: plugins for orgs and build setup etc.
   - ACTION: Chris to work with Mishal Shah to figure out how this can be set up
   - Short term: Not have CI/CD pipeline. Lots of local testing for reviewers and mergers.  
