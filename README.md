@@ -53,6 +53,7 @@ The initial stakeholders consists of (alphabetically):
 * Gianluca Tranchedone ([@gtranchedone](https://github.com/gtranchedone))
 * Gregor Milos ([@gmilos](https://github.com/gmilos), Apple)
 * Gwynne Raskind ([@gwynne](https://github.com/gwynne))
+* Ian Partridge ([@ianpartridge](https://github.com/ianpartridge), IBM)
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
 * Jason Toffaletti ([@toffaletti](https://github.com/toffaletti), Apple)
