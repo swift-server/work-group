@@ -48,7 +48,6 @@ The initial stakeholders consists of (alphabetically):
 * David Ask ([@davidask](https://github.com/davidask), Zewo)
 * David Sperling ([@dsperling](https://github.com/dsperling), Smith Micro)
 * Eleftherios Laskaridis ([@laskaridis](https://github.com/laskaridis), eTravel)
-* Etan Kissling ([@Etan1](https://github.com/Etan1))
 * Farzad Nazifi ([@euwars](https://github.com/euwars), boon)
 * Gelareh Taban ([@gtaban](https://github.com/gtaban), IBM)
 * Gianluca Tranchedone ([@gtranchedone](https://github.com/gtranchedone))
