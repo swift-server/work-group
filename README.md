@@ -16,7 +16,7 @@ The work group is initially focussing on the creation of API proposals for base 
 * **HTTP and WebSockets**: Provide low level HTTP parsing, including HTTP, HTTP/2 and WebSocket support making it possible, in conjunction with the security and networking APIs, to create secure HTTP and WebSocket servers.
 
 ### <a name="steering-team"></a>Steering Team
-Analagous to the primary Core Team for Swift, the work group has a steering team that is responsible for providing overall technical direction, ensuring co-ordination both between the various API efforts (for example around Network, Security and HTTP integration for HTTPS) and with the wider Swift Core Libraries and language. Membership of the steering team is contribution based and is expected to evolve over time.
+Analogous to the primary Core Team for Swift, the work group has a steering team that is responsible for providing overall technical direction, ensuring co-ordination both between the various API efforts (for example around Network, Security and HTTP integration for HTTPS) and with the wider Swift Core Libraries and language. Membership of the steering team is contribution based and is expected to evolve over time.
 
 The initial steering team consists of:
 
