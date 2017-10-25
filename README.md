@@ -56,6 +56,7 @@ The initial stakeholders consists of (alphabetically):
 * Ian Partridge ([@ianpartridge](https://github.com/ianpartridge), IBM)
 * J. Morgan Lieberthal ([@baberthal](https://github.com/baberthal))
 * Jack Lawrence ([@jackhl](https://github.com/jackhl), Apple)
+* Jacopo Andrea Giola ([@JGiola](https://github.com/jgiola))
 * Jason Toffaletti ([@toffaletti](https://github.com/toffaletti), Apple)
 * Joannis Orlandos ([@joannis](https://github.com/joannis), OpenKitten)
 * Johannes Weiß ([@weissi](https://github.com/weissi), Apple)
