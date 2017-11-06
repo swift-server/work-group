@@ -93,7 +93,7 @@ The initial stakeholders consists of (alphabetically):
 * Thomas Paul Mann ([@thomaspaulmann](https://github.com/thomaspaulmann), Swish)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
 * Tripta Gupta ([@neurosaurus](https://github.com/neurosaurus), Capital One)
-* Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
+* Tyler Cloutier ([@cloutiertyler](https://github.com/cloutiertyler), Edge)
 * Tyler Stromberg ([@AquaGeek](https://github.com/AquaGeek))
 * Veck Hsiao ([@fbukevin](https://github.com/fbukevin), Sanity)
 * Wassim Seifeddine  ([@wassimseif](https://github.com/wassimseif))
