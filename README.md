@@ -95,6 +95,7 @@ The initial stakeholders consists of (alphabetically):
 * Tripta Gupta ([@neurosaurus](https://github.com/neurosaurus), Capital One)
 * Tyler Cloutier ([@theartofengineering](https://github.com/theartofengineering), Edge)
 * Tyler Stromberg ([@AquaGeek](https://github.com/AquaGeek))
+* Veck Hsiao ([@fbukevin](https://github.com/fbukevin), Sanity)
 * Wassim Seifeddine  ([@wassimseif](https://github.com/wassimseif))
 * Yuki Takei ([@noppoMan](https://github.com/noppoMan), Slimane)
 
