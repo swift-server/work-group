@@ -92,6 +92,7 @@ The initial stakeholders consists of (alphabetically):
 * Thiago Holanda ([@unnamedd](https://github.com/unnamedd), Zewo)
 * Thomas Catterall ([@swizzlr](https://github.com/swizzlr))
 * Thomas Paul Mann ([@thomaspaulmann](https://github.com/thomaspaulmann), Swish)
+* Tim Burks ([@timburks](https://github.com/timburks), Google)
 * Tom Doron ([@tomerd](https://github.com/tomerd), Apple)
 * Tripta Gupta ([@neurosaurus](https://github.com/neurosaurus), Capital One)
 * Tyler Cloutier ([@cloutiertyler](https://github.com/cloutiertyler), Edge)
