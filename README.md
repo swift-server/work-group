@@ -1,3 +1,7 @@
+# Status
+
+:warning: This repository contains historical information about the Server APIs Work Group.  This work is now being progressed in the [Server](https://forums.swift.org/c/development/server) category on the Swift Forums.  All interested parties are invited to participate on the forums.
+
 ## Server APIs Work Group
 
 The Server APIs Work Group is responsible for steering the [Swift Server APIs](http://swift.org/server-apis/) project, which is an evolving set of Swift libraries developed as part of the Swift open source project to provide fundamental capabilities for building server-oriented software.
