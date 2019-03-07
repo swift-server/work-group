@@ -74,6 +74,7 @@ The initial stakeholders consists of (alphabetically):
 * Marcin Kliks ([@vi4m](https://github.com/vi4m), Zewo)
 * Max Desiatov ([@explicitcall](https://github.com/explicitcall), Astrocat)
 * Maxim Veksler ([@maximveksler](http://github.com/maximveksler), Sugar So What)
+* Mitesh Soni ([@CosmicYogi](http://github.com/cosmicyogi), Ryoking)
 * Ludovic Dewailly ([@ldewailly](https://github.com/ldewailly), Apple)
 * Luke Hiesterman ([@gravisman](https://github.com/gravisman), Apple)
 * Marc Hoffman ([@dwarfland](https://github.com/dwarfland), RemObjects Software, Elements Compiler)
